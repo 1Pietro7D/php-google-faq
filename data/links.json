@@ -18,5 +18,35 @@
     "id": "link4",
     "text": "Scopri",
     "href": "https://safety.google/"
+  },
+  {
+    "id": "link5",
+    "text": "Contattaci",
+    "href": "https://policies.google.com/country-association-form"
+  },
+  {
+    "id": "link6",
+    "text": "contattare il webmaster",
+    "href": "https://support.google.com/websearch/answer/9109?hl=it"
+  },
+  {
+    "id": "link7",
+    "text": "fai click qui",
+    "href": "https://reportcontent.google.com/forms/rtbf?visit_id=638015603840187135-676340673&hl=it&rd=1"
+  },
+  {
+    "id": "link8",
+    "text": "visitare la nostra pagina di assistenza per avere ulteriori informazioni",
+    "href": "https://support.google.com/websearch/troubleshooter/3111061?hl=it"
+  },
+  {
+    "id": "link9",
+    "text": "URL referrer",
+    "href": "https://policies.google.com/privacy/key-terms#toc-terms-referrer-url"
+  },
+  {
+    "id": "link10",
+    "text": "qui",
+    "href": "https://support.google.com/websearch/answer/173733"
   }
 ]
