@@ -1,0 +1,22 @@
+[
+  {
+    "id": "link1",
+    "text": "decisione della Corte di giustizia dell'Unione europea",
+    "href": "https://curia.europa.eu/juris/document/document.jsf?text=&docid=152065&amppageIndex=0&doclang=it&mode=lst&dir=&occ=first&part=1&cid=276332"
+  },
+  {
+    "id": "link2",
+    "text": "modulo web",
+    "href": "https://reportcontent.google.com/forms/rtbf?visit_id=638015498706056760-1670853260&hl=it&rd=1"
+  },
+  {
+    "id": "link3",
+    "text": "Centro Google per la sicurezza online",
+    "href": "https://safety.google/"
+  },
+  {
+    "id": "link4",
+    "text": "Scopri",
+    "href": "https://safety.google/"
+  }
+]
